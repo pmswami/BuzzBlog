@@ -2,3 +2,5 @@ Flask
 email_validator
 flask_wtf
 flask-sqlalchemy
+flask-bcrypt
+flask-login
