@@ -1,3 +1,4 @@
 Flask
 email_validator
 flask_wtf
+flask-sqlalchemy
