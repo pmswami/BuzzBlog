@@ -5,3 +5,5 @@ flask-sqlalchemy
 flask-bcrypt
 flask-login
 Pillow
+itsdangerous
+flask-mail
