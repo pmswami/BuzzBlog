@@ -1,8 +1,8 @@
-Flask_Blog/__pychache__/*
-Flask_Blog/flaskblog/__pychache__/*
-Flask_Blog/flaskblog/main/__pychache__/*
-Flask_Blog/flaskblog/posts/__pychache__/*
-Flask_Blog/flaskblog/main/__pychache__/*
-Flask_Blog/flaskblog/users/__pychache__/*
+/Flask_Blog/__pychache__/*
+/Flask_Blog/flaskblog/__pychache__/*
+/Flask_Blog/flaskblog/main/__pychache__/*
+/Flask_Blog/flaskblog/posts/__pychache__/*
+/Flask_Blog/flaskblog/main/__pychache__/*
+/Flask_Blog/flaskblog/users/__pychache__/*
 .env
 .env_file
