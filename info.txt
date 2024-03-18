@@ -1,4 +1,1 @@
-video #7
-9:00:00
-
 enctype in forms -> Is used to send unstructured data without errors. Unstructured data is images, videos,etc.
